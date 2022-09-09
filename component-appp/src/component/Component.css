@@ -1,0 +1,15 @@
+#datadiv {
+  background-color: rgb(228, 238, 247);
+  padding: 7rem;
+  font-weight: bolder;
+  color: green;
+}
+#head {
+  font-size: 50px;
+  font-weight: 700;
+}
+.imgpad {
+  width: fit-content;
+  /* height: fit-content; */
+  transform: scaleY(1.1);
+}

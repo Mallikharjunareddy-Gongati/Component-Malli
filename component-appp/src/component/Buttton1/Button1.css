@@ -1,0 +1,9 @@
+#but {
+  background-color: #00a862;
+  color: white;
+}
+
+#but:hover {
+  background-color: white;
+  color: #00a862;
+}
